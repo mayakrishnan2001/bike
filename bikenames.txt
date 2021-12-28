@@ -5,3 +5,6 @@ Bike_Names
     Honda
     Hero
     Dio
+    
+Popular
+    Duke
